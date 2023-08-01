@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @demoth
-- 👀 I’m interested in many things, including software engineering, game development and language learning
-- 🌱 I’m currently learning cloud computing, machine learning and chinese language
+- 👀 I’m interested in many things, including software engineering, game development, open source games, language learning, DIY, mechanical keyboards, etc...
+- 🌱 I’m currently learning cloud computing, machine learning and Svenska language
 - 💞️ I’m looking to collaborate on the Jake2 project
 - 📫 You can reach me in discord: demoth#4697, email: bubnov.d.e@gmail.com
 
